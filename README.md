@@ -1,4 +1,4 @@
-<h1>Hey, I'm Julian! <br/><a href="https://github.com/CyberJQE">Aspiring Cybersecurity Engineer</a>, <a href="https://www.linkedin.com/in/julianeben/"> </h1>
+<h1>Hey, I'm Julian! <br/><a href="https://github.com/CyberJQE">Aspiring Cybersecurity Engineer</a> <a href="https://www.linkedin.com/in/julianeben/"> </h1>
 
 <h2> 🤳 Connect with me:</h2>
 
