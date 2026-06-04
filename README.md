@@ -7,7 +7,7 @@
 [linkedin]: https://linkedin.com/in/julianeben
 <br>
 
-- 🔭 I’m currently working on improving my malware analysis and enterprise technology skills.
-- 🌱 I’m currently learning Python.
-- 💬 Ask me about recommendations to get into cybersecurity.
-- ⚡ Fun fact: I enjoy playing video games in my free time.
+- I’m currently working on improving my Python and SIEM skills.
+- I’m currently learning C#.
+- Ask me about recommendations to get into cybersecurity.
+- Fun fact: I enjoy playing video games in my free time.
